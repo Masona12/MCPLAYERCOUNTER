@@ -6,13 +6,19 @@ Download The Files
 # Installation
 # => Vps
 Git Clone `https://github.com/Prajwal433/MCPLAYERCOUNTER.git` 
+<br>
 Cd `MCPLAYERCOUNTER`
+<br>
 Install `npm i` or `npm install`
+<br>
 Start `node .` Or `node index.js` 
+<br>
 
 # => Local Install 
-Download The Files 
+Download The Files
+<br>
 Install `npm i` or `npm install
+<br>
 Start `node .` `node index.js`
 
 # Edit Your Config 
